@@ -26,14 +26,19 @@ This Python program utilizes the OpenAI GPT-3.5 Turbo model to create a conversa
     python chatbot.py
     
 **Configuration**
-    The chatbot.py script uses the gpt-3.5-turbo model by default. You can customize the model or other parameters by modifying the script.
+
+ The chatbot.py script uses the gpt-3.5-turbo model by default. You can customize the model or other parameters by modifying the script.
+    
 **Usage**
-    Enter your messages in the console, and the chatbot will respond accordingly.
-    To end the conversation, type "stop."
+
+ Enter your messages in the console, and the chatbot will respond accordingly.
+ To end the conversation, type "stop."
     
 **Important Notes**
-    Ensure your OpenAI API key is kept secure and not shared publicly.
-    Keep your environment variables, especially the API key, confidential.
+
+ Ensure your OpenAI API key is kept secure and not shared publicly.
+ Keep your environment variables, especially the API key, confidential.
     
 **Contributing**
-    Contributions are welcome. Feel free to open issues or pull requests.
+
+ Contributions are welcome. Feel free to open issues or pull requests.
