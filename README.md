@@ -23,7 +23,7 @@ This Python program utilizes the OpenAI GPT-3.5 Turbo model to create a conversa
 3. **Run the program:**
 
     ```bash
-    python chatbot.py
+    python chatgpt_python.py
     
 **Configuration**
 
