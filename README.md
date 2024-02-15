@@ -1,6 +1,7 @@
 # ChatGPT API Conversation Program
 
 This Python program utilizes the OpenAI GPT-3.5 Turbo model to create a conversational chatbot. The program takes user input, sends it to the ChatGPT API, and returns the assistant's response. The conversation continues until the user inputs "stop."
+For privacy reasons, I have removed the .env file containing my OpenAI_API_key. Although it is essential for running this program. 
 
 ## Prerequisites
 
