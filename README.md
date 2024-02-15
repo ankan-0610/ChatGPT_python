@@ -33,7 +33,6 @@ This Python program utilizes the OpenAI GPT-3.5 Turbo model to create a conversa
     
 **Important Notes**
     Ensure your OpenAI API key is kept secure and not shared publicly.
-    
     Keep your environment variables, especially the API key, confidential.
     
 **Contributing**
